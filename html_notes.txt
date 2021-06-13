@@ -1,0 +1,24 @@
+This is a text document for the NOTES for HTML elements and attributes that i learn
+<h1> is an H1 heading ,it is the biggest heading.
+<h1> goes upto as small as <h6>
+-------------------------------------------------------------------------------------
+<br> is used to break a line or typically called newline .
+-------------------------------------------------------------------------------------- 
+<hr> is used for horizontal lines . 
+--------------------------------------------------------------------------------------
+<head> in this we write about the <title> for our website and the meta tags so the google can search for our website easily.
+--------------------------------------------------------------------------------------
+<body> in this we write our main code to display it on the website itself. 
+-------------------------------------------------------------------------------------- 
+<ul> is used for generating unordered list of bullet points for example and <li> is used for speifying the elements.
+-------------------------------------------------------------------------------------- 
+<ol> is used for generating ordered list of bullet points for example and <li> is used for speifying the elements.
+--------------------------------------------------------------------------------------
+<table> is used for generating a table i.e <tr>(table row) makes a new row and to add elements to the row we use <td>(table data)
+--------------------------------------------------------------------------------------
+<a href"#" > is used for hyperlinks , # is the place where we specify the hyperlink that we want to go to when the content inside the
+<a> is clicked. 
+--------------------------------------------------------------------------------------
+<form> is used to create an HTML form that can we used with <labels>(to specify the field) and <input> to take certain inputs .
+<input> can have a attribute type="" that can be of many forms like email,name,password,file,date etc depending upon the user to what tthe user needs. 
+--------------------------------------------------------------------------------------
